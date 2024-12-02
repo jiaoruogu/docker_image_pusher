@@ -5,3 +5,4 @@ nginx:latest
 andychiao/homeassistant:stable
 mysql
 mongo
+node:lts-alpine
