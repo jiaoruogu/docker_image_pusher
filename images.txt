@@ -4,4 +4,4 @@ redis
 nginx:latest
 andychiao/homeassistant:stable
 mysql
-
+mongo
