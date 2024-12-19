@@ -2,7 +2,7 @@ node
 alpine
 redis
 nginx:latest
-andychiao/homeassistant:stable
+ghcr.io/home-assistant/home-assistant:stable
 mysql
 mongo
 node:lts-alpine
