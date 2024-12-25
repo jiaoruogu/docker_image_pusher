@@ -6,3 +6,5 @@ ghcr.io/home-assistant/home-assistant:stable
 mysql
 mongo
 node:lts-alpine
+diygod/rsshub
+browserless/chrome
