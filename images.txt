@@ -8,3 +8,4 @@ mongo
 node:lts-alpine
 diygod/rsshub
 browserless/chrome
+rustdesk/rustdesk-server
