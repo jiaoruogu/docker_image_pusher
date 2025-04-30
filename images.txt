@@ -1,13 +1,1 @@
-node
-alpine
-redis
-nginx:latest
-ghcr.io/home-assistant/home-assistant:stable
-mysql
-mongo
-node:lts-alpine
-diygod/rsshub
-browserless/chrome
-rustdesk/rustdesk-server
-jupyter/datascience-notebook
-postgres
+ghcr.io/teableio/teable:latest
