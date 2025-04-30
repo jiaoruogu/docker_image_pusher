@@ -6,11 +6,9 @@
 #mysql
 #mongo
 #node:lts-alpine
-#diygod/rsshub
 #browserless/chrome
 #rustdesk/rustdesk-server
 #jupyter/datascience-notebook
 #postgres
 #ghcr.io/teableio/teable:latest
-ghcr.io/cxfksword/douban-api-rs
-#talebook/talebook
+
