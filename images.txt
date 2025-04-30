@@ -12,4 +12,5 @@
 #jupyter/datascience-notebook
 #postgres
 #ghcr.io/teableio/teable:latest
-talebook/talebook
+ghcr.io/cxfksword/douban-api-rs
+#talebook/talebook
