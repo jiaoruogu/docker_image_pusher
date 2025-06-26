@@ -11,4 +11,5 @@
 #jupyter/datascience-notebook
 #postgres
 #ghcr.io/teableio/teable:latest
-jc21/nginx-proxy-manager
+#jc21/nginx-proxy-manager
+uozi/nginx-ui
