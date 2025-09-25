@@ -12,4 +12,5 @@
 #postgres
 #ghcr.io/teableio/teable:latest
 #jc21/nginx-proxy-manager
-uozi/nginx-ui
+#uozi/nginx-ui
+ghcr.io/wg-easy/wg-easy:edge
