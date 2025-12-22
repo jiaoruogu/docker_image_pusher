@@ -7,7 +7,7 @@
 #mongo
 #node:lts-alpine
 #browserless/chrome
-#rustdesk/rustdesk-server
+rustdesk/rustdesk-server
 #jupyter/datascience-notebook
 #postgres
 #ghcr.io/teableio/teable:latest
