@@ -14,4 +14,6 @@
 #jc21/nginx-proxy-manager
 #uozi/nginx-ui
 #ghcr.io/wg-easy/wg-easy:edge
-rust:latest
+#rust:latest
+nextcloud:latest
+mariadb:10.6
