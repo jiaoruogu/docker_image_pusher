@@ -15,5 +15,6 @@
 #uozi/nginx-ui
 #ghcr.io/wg-easy/wg-easy:edge
 #rust:latest
-nextcloud:latest
-mariadb:10.6
+#nextcloud:latest
+#mariadb:10.6
+jellyfin/jellyfin:latest
